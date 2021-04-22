@@ -211,7 +211,7 @@
                 balloonContent: 'г.Гомель, Советская 18'
             }, {
                 iconLayout: 'default#image',
-                iconImageHref: 'img/pizza-slice.png',
+                iconImageHref: '../img/marker.png',
                 iconImageSize: [30, 42],
                 iconImageOffset: [-5, -38]
             });
